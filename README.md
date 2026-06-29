@@ -152,12 +152,10 @@ Student-Performance-Prediction/
 
 ### Streamlit Application
 
-![alt text](application.jpg)
 ![Application](assets/screenshots/application.jpg)
 
 ### Prediction Example
 
-![alt text](prediction.jpg)
 ![Prediction](assets/screenshots/prediction.jpg)
 
 ---
