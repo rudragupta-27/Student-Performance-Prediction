@@ -20,6 +20,14 @@ The final application allows users to enter student details through a web interf
 
 ---
 
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+https://student-performance-prediction-muf3ejanbtfru4bt3xw5yy.streamlit.app/
+
+---
+
 ## 📊 Dataset
 
 **Dataset:** Students Performance in Exams
